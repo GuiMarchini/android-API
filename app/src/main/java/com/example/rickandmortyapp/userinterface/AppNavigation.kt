@@ -137,7 +137,7 @@ private fun AuthScreen(auth: AuthViewModel, isRegister: Boolean, onSuccess: () -
 }
 
 @Composable
-@OptIn(ExperimentalMaterial3Api::class)\nprivate fun MainTabs(auth: AuthViewModel, navController: androidx.navigation.NavHostController) {
+@OptIn(ExperimentalMaterial3Api::class)private fun MainTabs(auth: AuthViewModel, navController: androidx.navigation.NavHostController) {
     val userId by auth.userId.collectAsState()
     var selected by remember { mutableIntStateOf(0) }
     val titles = listOf("Início", "Explorar", "Favoritos")

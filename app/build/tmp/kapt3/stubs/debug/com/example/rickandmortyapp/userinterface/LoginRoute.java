@@ -1,0 +1,54 @@
+package com.example.rickandmortyapp.userinterface;
+
+import androidx.compose.foundation.*;
+import androidx.compose.foundation.layout.*;
+import androidx.compose.foundation.lazy.*;
+import androidx.compose.material.icons.Icons;
+import androidx.compose.material.icons.filled.*;
+import androidx.compose.material3.*;
+import androidx.compose.material3.ExperimentalMaterial3Api;
+import androidx.compose.runtime.*;
+import androidx.compose.ui.Alignment;
+import androidx.compose.ui.Modifier;
+import androidx.compose.ui.text.font.FontWeight;
+import androidx.navigation.NavType;
+import androidx.navigation.compose.*;
+import com.example.rickandmortyapp.data.Favorite;
+import com.example.rickandmortyapp.data.RickCharacter;
+import com.example.rickandmortyapp.viewmodel.AuthViewModel;
+import com.example.rickandmortyapp.viewmodel.CharacterViewModel;
+import com.example.rickandmortyapp.viewmodel.FavoriteViewModel;
+import kotlinx.serialization.Serializable;
+
+@kotlinx.serialization.Serializable()
+@kotlin.Metadata(mv = {1, 9, 0}, k = 1, xi = 48, d1 = {"\u0000&\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\u000b\n\u0002\b\u0002\n\u0002\u0010\b\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000e\n\u0000\b\u00c7\n\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002J\u0013\u0010\u0003\u001a\u00020\u00042\b\u0010\u0005\u001a\u0004\u0018\u00010\u0001H\u00d6\u0003J\t\u0010\u0006\u001a\u00020\u0007H\u00d6\u0001J\u000f\u0010\b\u001a\b\u0012\u0004\u0012\u00020\u00000\tH\u00c6\u0001J\t\u0010\n\u001a\u00020\u000bH\u00d6\u0001\u00a8\u0006\f"}, d2 = {"Lcom/example/rickandmortyapp/userinterface/LoginRoute;", "", "()V", "equals", "", "other", "hashCode", "", "serializer", "Lkotlinx/serialization/KSerializer;", "toString", "", "app_debug"})
+public final class LoginRoute {
+    @org.jetbrains.annotations.NotNull()
+    public static final com.example.rickandmortyapp.userinterface.LoginRoute INSTANCE = null;
+    
+    private LoginRoute() {
+        super();
+    }
+    
+    @java.lang.Override()
+    public boolean equals(@org.jetbrains.annotations.Nullable()
+    java.lang.Object other) {
+        return false;
+    }
+    
+    @java.lang.Override()
+    public int hashCode() {
+        return 0;
+    }
+    
+    @org.jetbrains.annotations.NotNull()
+    public final kotlinx.serialization.KSerializer<com.example.rickandmortyapp.userinterface.LoginRoute> serializer() {
+        return null;
+    }
+    
+    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull()
+    public java.lang.String toString() {
+        return null;
+    }
+}

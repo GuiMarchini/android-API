@@ -1,0 +1,12 @@
+Rick & Morty Explorer
+
+1. Extraia este ZIP.
+2. Abra a pasta RickAndMortyApp no Android Studio.
+3. Aguarde o Gradle sincronizar.
+4. Execute em um emulador ou celular com internet.
+
+Observações:
+- O package configurado é com.example.rickandmortyapp.
+- O projeto usa Kotlin, Jetpack Compose, Retrofit, Room e Navigation Compose.
+- A autenticação é local, conforme a proposta didática da atividade.
+- Revise e personalize o README com os integrantes e prints.

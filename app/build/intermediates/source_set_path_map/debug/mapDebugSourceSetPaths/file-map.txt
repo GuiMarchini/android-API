@@ -1,0 +1,62 @@
+com.example.rickandmortyapp-ui-util-release-0 C:\Users\12400181\.gradle\caches\8.12\transforms\04fbd6d6c68bb1ce5babdae358fe1eb6\transformed\ui-util-release\res
+com.example.rickandmortyapp-annotation-experimental-1.4.1-1 C:\Users\12400181\.gradle\caches\8.12\transforms\076eebce69942f49ef3d44db037dda60\transformed\annotation-experimental-1.4.1\res
+com.example.rickandmortyapp-foundation-release-2 C:\Users\12400181\.gradle\caches\8.12\transforms\0f0a4533c563b6c8ce115604b426adcb\transformed\foundation-release\res
+com.example.rickandmortyapp-activity-ktx-1.10.1-3 C:\Users\12400181\.gradle\caches\8.12\transforms\175c84cb0678910a6f437a21c4a95941\transformed\activity-ktx-1.10.1\res
+com.example.rickandmortyapp-animation-core-release-4 C:\Users\12400181\.gradle\caches\8.12\transforms\1f2653454fb15419d86922ac61b39366\transformed\animation-core-release\res
+com.example.rickandmortyapp-lifecycle-livedata-core-2.8.7-5 C:\Users\12400181\.gradle\caches\8.12\transforms\21e49371c7c19e44a7382434dc2c56b3\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.rickandmortyapp-ui-text-release-6 C:\Users\12400181\.gradle\caches\8.12\transforms\2879751cf42675eb29d13a1528fec676\transformed\ui-text-release\res
+com.example.rickandmortyapp-lifecycle-runtime-compose-release-7 C:\Users\12400181\.gradle\caches\8.12\transforms\2cc96659c29880dc591fbc001317add6\transformed\lifecycle-runtime-compose-release\res
+com.example.rickandmortyapp-material3-release-8 C:\Users\12400181\.gradle\caches\8.12\transforms\2dd369e3f1a4c68304ee83562cd976c6\transformed\material3-release\res
+com.example.rickandmortyapp-animation-release-9 C:\Users\12400181\.gradle\caches\8.12\transforms\2fe47b3bb122fbfa32bf003d97f2c532\transformed\animation-release\res
+com.example.rickandmortyapp-graphics-path-1.0.1-10 C:\Users\12400181\.gradle\caches\8.12\transforms\30719661541971ea7ded62f5546e0efd\transformed\graphics-path-1.0.1\res
+com.example.rickandmortyapp-customview-poolingcontainer-1.0.0-11 C:\Users\12400181\.gradle\caches\8.12\transforms\33974e06008c0f996ac7ab064bf30909\transformed\customview-poolingcontainer-1.0.0\res
+com.example.rickandmortyapp-navigation-runtime-2.8.9-12 C:\Users\12400181\.gradle\caches\8.12\transforms\351bba4aec6c79ba4fd35d881c98f010\transformed\navigation-runtime-2.8.9\res
+com.example.rickandmortyapp-room-runtime-2.6.1-13 C:\Users\12400181\.gradle\caches\8.12\transforms\43f80b0bd6938b9cc5f9f84cfbf559c9\transformed\room-runtime-2.6.1\res
+com.example.rickandmortyapp-core-viewtree-1.0.0-14 C:\Users\12400181\.gradle\caches\8.12\transforms\50970b93db42e8cbcca11cad207fb0e1\transformed\core-viewtree-1.0.0\res
+com.example.rickandmortyapp-lifecycle-viewmodel-compose-release-15 C:\Users\12400181\.gradle\caches\8.12\transforms\587c15007645df82d6e2d917d7572171\transformed\lifecycle-viewmodel-compose-release\res
+com.example.rickandmortyapp-profileinstaller-1.4.0-16 C:\Users\12400181\.gradle\caches\8.12\transforms\59185494527c98f63dce8542059c175a\transformed\profileinstaller-1.4.0\res
+com.example.rickandmortyapp-material-ripple-release-17 C:\Users\12400181\.gradle\caches\8.12\transforms\68462bc3eba6618fee0047bf6998cdb3\transformed\material-ripple-release\res
+com.example.rickandmortyapp-ui-release-18 C:\Users\12400181\.gradle\caches\8.12\transforms\6f11a543b297d144fa9c110ec4bf54fb\transformed\ui-release\res
+com.example.rickandmortyapp-ui-tooling-preview-release-19 C:\Users\12400181\.gradle\caches\8.12\transforms\6ffa9e4405664f55c1f028617f7fbc18\transformed\ui-tooling-preview-release\res
+com.example.rickandmortyapp-lifecycle-viewmodel-release-20 C:\Users\12400181\.gradle\caches\8.12\transforms\7499282ea9eace6000242136c6177f19\transformed\lifecycle-viewmodel-release\res
+com.example.rickandmortyapp-ui-unit-release-21 C:\Users\12400181\.gradle\caches\8.12\transforms\7beeb4f583ddce2edc1e987854d7ef4e\transformed\ui-unit-release\res
+com.example.rickandmortyapp-material-icons-extended-release-22 C:\Users\12400181\.gradle\caches\8.12\transforms\840712bd77db9ce343046dcf1d7365a8\transformed\material-icons-extended-release\res
+com.example.rickandmortyapp-navigation-compose-2.8.9-23 C:\Users\12400181\.gradle\caches\8.12\transforms\8714db7067091584fdbf7d8599381717\transformed\navigation-compose-2.8.9\res
+com.example.rickandmortyapp-material-icons-core-release-24 C:\Users\12400181\.gradle\caches\8.12\transforms\8aaa37a74ebe2b92edb20983cb788680\transformed\material-icons-core-release\res
+com.example.rickandmortyapp-activity-compose-1.10.1-25 C:\Users\12400181\.gradle\caches\8.12\transforms\93ec9633aa358b110cbe735ee0e710e1\transformed\activity-compose-1.10.1\res
+com.example.rickandmortyapp-ui-tooling-data-release-26 C:\Users\12400181\.gradle\caches\8.12\transforms\954aaa9da0a549bad0d6823bf1774455\transformed\ui-tooling-data-release\res
+com.example.rickandmortyapp-core-1.13.1-27 C:\Users\12400181\.gradle\caches\8.12\transforms\979dafde9f1ac9dab206668144f582f0\transformed\core-1.13.1\res
+com.example.rickandmortyapp-navigation-common-ktx-2.8.9-28 C:\Users\12400181\.gradle\caches\8.12\transforms\9a3ac314551da39a771a89aa05007f96\transformed\navigation-common-ktx-2.8.9\res
+com.example.rickandmortyapp-navigation-runtime-ktx-2.8.9-29 C:\Users\12400181\.gradle\caches\8.12\transforms\9d13c84bfe2399942d8a8e30a60a05f4\transformed\navigation-runtime-ktx-2.8.9\res
+com.example.rickandmortyapp-sqlite-framework-2.4.0-30 C:\Users\12400181\.gradle\caches\8.12\transforms\9d276b4f2c93194be7e65bac591c6688\transformed\sqlite-framework-2.4.0\res
+com.example.rickandmortyapp-sqlite-2.4.0-31 C:\Users\12400181\.gradle\caches\8.12\transforms\a4b18cc1386f6c729e2dc32239e23666\transformed\sqlite-2.4.0\res
+com.example.rickandmortyapp-lifecycle-process-2.8.7-32 C:\Users\12400181\.gradle\caches\8.12\transforms\a632461025d25e89744315d5c593910b\transformed\lifecycle-process-2.8.7\res
+com.example.rickandmortyapp-room-ktx-2.6.1-33 C:\Users\12400181\.gradle\caches\8.12\transforms\b30e37e7b12cfe539668e754c9b6f268\transformed\room-ktx-2.6.1\res
+com.example.rickandmortyapp-startup-runtime-1.1.1-34 C:\Users\12400181\.gradle\caches\8.12\transforms\b36e1af21411c1970dbe6dea6f2fac8d\transformed\startup-runtime-1.1.1\res
+com.example.rickandmortyapp-core-ktx-1.13.1-35 C:\Users\12400181\.gradle\caches\8.12\transforms\bca68cc803c6aac706a501990c21a792\transformed\core-ktx-1.13.1\res
+com.example.rickandmortyapp-lifecycle-runtime-release-36 C:\Users\12400181\.gradle\caches\8.12\transforms\c6d47278b91c2b0a95959d67699492dd\transformed\lifecycle-runtime-release\res
+com.example.rickandmortyapp-activity-1.10.1-37 C:\Users\12400181\.gradle\caches\8.12\transforms\c9513a5a8527f7e97ed4bf22e238fbf7\transformed\activity-1.10.1\res
+com.example.rickandmortyapp-emoji2-1.3.0-38 C:\Users\12400181\.gradle\caches\8.12\transforms\c97d48ceb825f1ae887cdf9aa3b85e85\transformed\emoji2-1.3.0\res
+com.example.rickandmortyapp-core-runtime-2.2.0-39 C:\Users\12400181\.gradle\caches\8.12\transforms\c9c2173169c008d0e0a95f5117b81731\transformed\core-runtime-2.2.0\res
+com.example.rickandmortyapp-material-release-40 C:\Users\12400181\.gradle\caches\8.12\transforms\cdcf377491bebf320b86f86132667664\transformed\material-release\res
+com.example.rickandmortyapp-runtime-saveable-release-41 C:\Users\12400181\.gradle\caches\8.12\transforms\cefd19caa995a8663e33535c0a77283e\transformed\runtime-saveable-release\res
+com.example.rickandmortyapp-ui-graphics-release-42 C:\Users\12400181\.gradle\caches\8.12\transforms\d3a1f570698b19f3a25db58d0e717f7d\transformed\ui-graphics-release\res
+com.example.rickandmortyapp-ui-geometry-release-43 C:\Users\12400181\.gradle\caches\8.12\transforms\d4844a17cb7df5dbbfd7003351ab7040\transformed\ui-geometry-release\res
+com.example.rickandmortyapp-savedstate-1.2.1-44 C:\Users\12400181\.gradle\caches\8.12\transforms\d86d9c5a3861fc57a6fca7948e48bc04\transformed\savedstate-1.2.1\res
+com.example.rickandmortyapp-appcompat-resources-1.6.1-45 C:\Users\12400181\.gradle\caches\8.12\transforms\dfb671c1357758dc9608699cef5912a6\transformed\appcompat-resources-1.6.1\res
+com.example.rickandmortyapp-foundation-layout-release-46 C:\Users\12400181\.gradle\caches\8.12\transforms\eadb2365353c90f7b32e65a542820aed\transformed\foundation-layout-release\res
+com.example.rickandmortyapp-ui-tooling-release-47 C:\Users\12400181\.gradle\caches\8.12\transforms\ef58022f5541792695f294c80744d248\transformed\ui-tooling-release\res
+com.example.rickandmortyapp-savedstate-ktx-1.2.1-48 C:\Users\12400181\.gradle\caches\8.12\transforms\efe238e568de90e553a8f5a7862f24a1\transformed\savedstate-ktx-1.2.1\res
+com.example.rickandmortyapp-runtime-release-49 C:\Users\12400181\.gradle\caches\8.12\transforms\f2ca8db877a6a9b00948d14c8890e530\transformed\runtime-release\res
+com.example.rickandmortyapp-navigation-common-2.8.9-50 C:\Users\12400181\.gradle\caches\8.12\transforms\f7ab183193f8499f353f8bcd4e4e9c1a\transformed\navigation-common-2.8.9\res
+com.example.rickandmortyapp-coil-base-2.7.0-51 C:\Users\12400181\.gradle\caches\8.12\transforms\f825f27bb97c427695dd2a041b2238c6\transformed\coil-base-2.7.0\res
+com.example.rickandmortyapp-lifecycle-viewmodel-savedstate-2.8.7-52 C:\Users\12400181\.gradle\caches\8.12\transforms\f83660870b990af0dc2235d0c3de47a5\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.rickandmortyapp-lifecycle-viewmodel-ktx-2.8.7-53 C:\Users\12400181\.gradle\caches\8.12\transforms\fded442abb8db3d7729edac05ef630c8\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.rickandmortyapp-lifecycle-runtime-ktx-release-54 C:\Users\12400181\.gradle\caches\8.12\transforms\fefe902098f3be9fb76c76ea8cc51d33\transformed\lifecycle-runtime-ktx-release\res
+com.example.rickandmortyapp-pngs-55 H:\Android\Atividades Android Studio\RickAndMortyApp\app\build\generated\res\pngs\debug
+com.example.rickandmortyapp-resValues-56 H:\Android\Atividades Android Studio\RickAndMortyApp\app\build\generated\res\resValues\debug
+com.example.rickandmortyapp-packageDebugResources-57 H:\Android\Atividades Android Studio\RickAndMortyApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.rickandmortyapp-packageDebugResources-58 H:\Android\Atividades Android Studio\RickAndMortyApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.rickandmortyapp-debug-59 H:\Android\Atividades Android Studio\RickAndMortyApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.rickandmortyapp-debug-60 H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\debug\res
+com.example.rickandmortyapp-main-61 H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\res

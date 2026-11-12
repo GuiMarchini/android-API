@@ -1,0 +1,7 @@
+H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\java\com\example\rickandmortyapp\userinterface\AppNavigation.kt
+H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\java\com\example\rickandmortyapp\MainActivity.kt
+H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\java\com\example\rickandmortyapp\data\LocalData.kt
+H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\java\com\example\rickandmortyapp\network\ApiService.kt
+H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\java\com\example\rickandmortyapp\viewmodel\AppViewModels.kt
+H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\java\com\example\rickandmortyapp\data\Models.kt
+H:\Android\Atividades Android Studio\RickAndMortyApp\app\src\main\java\com\example\rickandmortyapp\data\Repository.kt
